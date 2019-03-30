@@ -1,7 +1,7 @@
 # Portfolio File Description
 Final Portfolio Repo
 
-Big Data Project - 
+Big Data Project - \n
 Software Used: PySpark and Jupyter Notebook
 This is a project in progress for IST 717 Big Data Analytics. The data was obtained from Kaggle.
 Data Link: https://www.kaggle.com/c/home-credit-default-risk/data
