@@ -15,3 +15,8 @@ Text Mining Project -
 Software Used: Python and R.
 Project completed for IST 736 Text Mining. The data was scraped from a website.
 Data Link: https://pitchfork.com/reviews/albums/
+
+Data Analysis Project - 
+Software Used: Excel.
+Project completed for IST 638 Data Analysis and Decision Making.
+Data Link: https://finance.yahoo.com/ https://www.bls.gov/home.htm
