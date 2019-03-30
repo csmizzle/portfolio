@@ -20,3 +20,4 @@ Data Analysis Project -
 Software Used: Excel.
 Project completed for IST 638 Data Analysis and Decision Making.
 Data Link: https://finance.yahoo.com/ https://www.bls.gov/home.htm
+Google Drive Link: https://drive.google.com/open?id=12Hmq50mzmjWmAl8TsouFr7k1Z8HGYaXt
