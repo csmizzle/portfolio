@@ -27,3 +27,6 @@ Data Science: A Global Presence by Chris Smith
 
 Presentation - 
 Overview of Data Science: A Global Presence
+
+Resume - 
+Current professional resume
