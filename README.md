@@ -6,10 +6,11 @@ Software Used: PySpark and Jupyter Notebook.
 This is a project in progress for IST 717 Big Data Analytics. The data was obtained from Kaggle.
 Data Link: https://www.kaggle.com/c/home-credit-default-risk/data
 
-Data Analysis Project - 
+Data Mining Project - 
 Software Used: R Programming Language.
 Project completed for IST 707 Data Mining.
-Data Link: https://www.kaggle.com/thebasss/currency-exchange-rates
+Data Link: https://www.kaggle.com/thebasss/currency-exchange-rates Deliverable Link:
+https://drive.google.com/open?id=1rbvf3Jn8EeZB5Uli3R7W8lFz5x---V0K
 
 Text Mining Project - 
 Software Used: Python and R.
