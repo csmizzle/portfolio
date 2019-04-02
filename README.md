@@ -1,4 +1,4 @@
-## Portfolio File Description -
+## Portfolio File Description
 
 Final Portfolio Repo
 
