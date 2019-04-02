@@ -14,7 +14,8 @@ Data Link: https://www.kaggle.com/thebasss/currency-exchange-rates
 Text Mining Project - 
 Software Used: Python and R.
 Project completed for IST 736 Text Mining. The data was scraped from a website.
-Data Link: https://pitchfork.com/reviews/albums/
+Data Link: https://pitchfork.com/reviews/albums/ Deliverable Link:
+https://drive.google.com/drive/u/0/folders/1C7Yar2jNVP8A_iGOdMDEGjxd0lShAiEl
 
 Data Analysis Project - 
 Software Used: Excel.
