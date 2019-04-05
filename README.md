@@ -8,6 +8,8 @@ Final Portfolio Repo
 
 Software Used: PySpark and Jupyter Notebook.
 
+We are looking at credit default loans, specifically if there are certain groups being trageted unfairly by lendors.
+
 This is a project in progress for IST 717 Big Data Analytics. The data was obtained from Kaggle.
 
 Data Link: https://www.kaggle.com/c/home-credit-default-risk/data
